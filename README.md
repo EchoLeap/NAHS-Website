@@ -1,2 +1,2 @@
 # Website
-This is a test
+Website for NAHS Ridge Point High School
